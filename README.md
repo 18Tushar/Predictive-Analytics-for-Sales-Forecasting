@@ -65,13 +65,13 @@ The model performed with an accuracy of **X%** in predicting future sales. Key i
 ---
 # 📊 Predictive Analysis for Sales Forecasting
 
-<img src="https://github.com/user-attachments/assets/8dcde515-b8c6-4f9c-933e-9050895cffde" alt="Sales Forecast Chart" width="490">
+<img src="https://github.com/user-attachments/assets/8dcde515-b8c6-4f9c-933e-9050895cffde" alt="Sales Forecast Chart" width="400">
 
-<img src="https://github.com/user-attachments/assets/807951ee-f138-48be-ba25-f8b7747041e9" alt="Sales Data Visualization" width="490">
+<img src="https://github.com/user-attachments/assets/807951ee-f138-48be-ba25-f8b7747041e9" alt="Sales Data Visualization" width="400">
 
-<img src="https://github.com/user-attachments/assets/8a9f3599-ae04-48e0-98a5-223de177b21f" alt="Trend Analysis" width="490">
+<img src="https://github.com/user-attachments/assets/8a9f3599-ae04-48e0-98a5-223de177b21f" alt="Trend Analysis" width="400">
 
-<img src="https://github.com/user-attachments/assets/164b9b46-0486-4ca3-b9fe-0148f57c1136" alt="Time Series Plot" width="490">
+<img src="https://github.com/user-attachments/assets/164b9b46-0486-4ca3-b9fe-0148f57c1136" alt="Time Series Plot" width="400">
 
 <img src="https://github.com/user-attachments/assets/948d43ae-183e-4972-af1c-19c23ea01f74" alt="Residuals Plot" width="1000">
 
